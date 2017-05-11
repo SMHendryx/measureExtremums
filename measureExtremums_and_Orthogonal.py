@@ -1,3 +1,4 @@
+# IN DEVELOPMENT
 # Function finds the two furthest points in a set of n-dimensional points and 
 # returns the point coordinates and distance between them
 
